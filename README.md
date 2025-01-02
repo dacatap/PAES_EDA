@@ -2,6 +2,7 @@
 
 ## Description
 Personal investigation project, analyzing the relationship between ranking, nem and PAES score of the sample students and their admission status.
+Tableau visualization available <b>[HERE](https://public.tableau.com/views/paesdbs/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)</b>
 
 ## Project Structure
 The repository is organized in the following way
