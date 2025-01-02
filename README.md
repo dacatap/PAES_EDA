@@ -25,7 +25,7 @@ Data originally provided by the Universidad de Santiago de Chile
 ## Author
 
 Dariem Castro Tapia \
-<b>[LinkedIn](https://www.linkedin.com/in/castrotapiadariem/)</b> \
+<b>[LinkedIn](https://www.linkedin.com/in/castrotapiadariem/)</b>
 
 <b>[Kaggle dataset](https://www.kaggle.com/datasets/daniellopez01/admisionuescl)</b> authored by <b>[Daniel Lopez](https://www.kaggle.com/daniellopez01/datasets)</b>
 
